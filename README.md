@@ -5,7 +5,7 @@
 ## Values for a acronym
 
 * date -> When was the acronym added
-* key -> The acronym
+* key  -> The acronym
 * value -> The long value of the acronym
 
 ## VScode Snippet

@@ -4,9 +4,11 @@
 
 ## Values for a acronym
 
-* date -> When was the acronym added
-* key  -> The acronym
-* value -> The long value of the acronym
+| Name  |  Type  |          Description          |
+| ----- | ------ | ----------------------------- |
+| date  | date   | When was the acronym added    |
+| key   | string | The acronym                   |
+| value | string | The long value of the acronym |
 
 ## VScode Snippet
 
